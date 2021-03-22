@@ -1,8 +1,8 @@
-[
-  {
-    "id": 0,
-    "description": "Had to work hard for this one!",
-    "image": "https://twemoji.maxcdn.com/svg/1f40e.svg",
-    "name": "OG Status Achieved"
-  }
-]
+{
+	"posts": [{
+		"id": 0,
+		"description": "Had to work hard for this one!",
+		"image": "https://twemoji.maxcdn.com/svg/1f40e.svg",
+		"name": "OG Status Achieved"
+	}]
+}
