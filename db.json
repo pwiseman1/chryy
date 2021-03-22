@@ -2,7 +2,7 @@
 	"posts": [{
 		"id": 0,
 		"description": "Had to work hard for this one!",
-		"image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT3Eyhm31rN4vJ9UQieDiECgYZVc8PkzBz-bg&usqp=CAU",
+		"image": "https://chry-token.s3-us-west-1.amazonaws.com/rick_meme.jpeg",
 		"name": "OG Status Achieved"
 	}]
 }
