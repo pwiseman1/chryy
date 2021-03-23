@@ -3,25 +3,25 @@
 		"id": 0,
 		"description": "The crown jewel",
 		"external_url": "https://forum.openzeppelin.com/t/create-an-nft-and-deploy-to-a-public-testnet-using-truffle/2961",
-		"image": "https://github.com/twitter/twemoji/blob/master/assets/svg/1f33c.svg",
+		"image": "https://twemoji.maxcdn.com/svg/1f33c.svg",
 		"name": "Cryptomoji #1"
 	}, {
 		"id": 1,
 		"description": "Number 2 ain't bad",
 		"external_url": "https://forum.openzeppelin.com/t/create-an-nft-and-deploy-to-a-public-testnet-using-truffle/2961",
-		"image": "https://github.com/twitter/twemoji/blob/master/assets/svg/1f439.svg",
+		"image": "https://twemoji.maxcdn.com/svg/1f439.svg",
 		"name": "Cryptomoji #2"
 	}, {
 		"id": 2,
 		"description": "Ohh baby, a triple",
 		"external_url": "https://forum.openzeppelin.com/t/create-an-nft-and-deploy-to-a-public-testnet-using-truffle/2961",
-		"image": "https://github.com/twitter/twemoji/blob/master/assets/svg/1f197.svg",
+		"image": "https://twemoji.maxcdn.com/svg/1f197.svg",
 		"name": "Cryptomoji #3"
 	}, {
 		"id": 3,
 		"description": "The final one",
 		"external_url": "https://forum.openzeppelin.com/t/create-an-nft-and-deploy-to-a-public-testnet-using-truffle/2961",
-		"image": "https://github.com/twitter/twemoji/blob/master/assets/svg/1f1f1-1f1e8.svg",
+		"image": "https://twemoji.maxcdn.com/svg/1f1f1-1f1e8.svg",
 		"name": "Cryptomoji #4"
 	}]
 }
